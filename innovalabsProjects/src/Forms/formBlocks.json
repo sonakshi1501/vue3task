@@ -1,0 +1,8 @@
+[
+    { "key": "name", "label": "Name", "type": "text" },
+    { "key": "email", "label": "Email", "type": "email" },
+    { "key": "password", "label": "Password", "type": "password" },
+    { "key": "agree", "label": "Agree to Terms", "type": "checkbox" },
+    { "key": "time", "label": "Preferred Time", "type": "time" }
+  ]
+  
