@@ -27,15 +27,6 @@ const handleChildEvent = (dataFromChild) => {
   childData.value = dataFromChild;
 };
 
-let obj = {};
-for (let i = 0; i < occur.length; i++)
-  if (obj[item]) {
-    obj[item] = obj[item] + 1;
-  } else {
-    obj[item] = 1;
-  }
-
-console.log("object occur", obj);
 </script>
   
   <style lang="scss" scoped>
